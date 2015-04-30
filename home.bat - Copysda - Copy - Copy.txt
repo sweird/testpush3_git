@@ -1,0 +1,4 @@
+@ECHO OFF
+SET location=C:\
+cd %location%
+ECHO Back to home directory (%location%).
